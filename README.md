@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi Folks, I'm Vaibhav Patel 👋🏻 💻
 
-<!--
-**patelvaibhavd/patelvaibhavd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Javascript developer (An entertaining personality 🤩 apart from being a developer. 🎧 Music is love 🥰 for me). 
 
-Here are some ideas to get you started:
+Here is how I started my career, When I started my career at that point of time, I don't even knew what is frontend, backend and blah blah blah....And then I landed with my first job in programming. Yeahh 😌!! Experimenting with various technologies for sometime, I realized, I love to work with javascript and started with Angular (One of the finest framework of JS). Working with Angular JS to Angular 9, it became fun for me and now I am great at it 😬! (I have very good experience in Angular 😊)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now, I feel like learning backend to get thorough idea of complete development of an application. As you know I love javascript 😉, what better than Node 😎, for backend. So, trying my hands on Node nowadays 👨‍💻, and it is fun too 🕺!!
+
+## Find me around the web 🌎: 
+- [Upwork](https://www.upwork.com/o/profiles/users/~01b4c9d0a25066a40f/)
+- [Fiverr](https://www.fiverr.com/users/patelvaibhav27)
+- [Freelancer](https://www.freelancer.in/u/preetdpatel)
+- [LinkedIn](https://www.linkedin.com/in/vaibhav-patel-8a7bb911a/)
+
