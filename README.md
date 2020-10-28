@@ -8,7 +8,7 @@ Now, I feel like learning backend to get thorough idea of complete development o
 
 ## Find me around the web 🌎: 
 - [Upwork](https://www.upwork.com/o/profiles/users/~01b4c9d0a25066a40f/)
-- [Fiverr](https://www.fiverr.com/users/patelvaibhav27)
+- [Fiverr](https://www.fiverr.com/preetdpatel)
 - [Freelancer](https://www.freelancer.in/u/preetdpatel)
 - [LinkedIn](https://www.linkedin.com/in/vaibhav-patel-8a7bb911a/)
 
