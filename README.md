@@ -9,9 +9,6 @@ Welcome to my profile! I'm Javascript developer (An entertaining personality ðŸ¤
 
 ### Find me around the web
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/patelvaibhav27)
-[![Upwrok](https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=Upwork)](https://www.upwork.com/o/profiles/users/~01b4c9d0a25066a40f/)
-[![Fiverr](https://img.shields.io/badge/fiverr-black?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/preetdpatel)
-[![Freelancer](https://img.shields.io/badge/freelancer-black?style=for-the-badge&logo=freelancer)](https://www.freelancer.in/u/preetdpatel)
 
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/patelvaibhavd)
